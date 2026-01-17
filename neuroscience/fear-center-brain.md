@@ -16,5 +16,5 @@ A detailed review including neuroanatomical diagrams,
 clinical correlations, and research references
 is available on the main site:
 
-👉 https://www.netaveiro.com/fear-center-brain
+👉 https://www.netaveiro.com/understanding-fear-of-rejection-why-it/
 Add neuroscience article summary on fear center
